@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\bin\Debug\2sayıtoplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\bin\Debug\2sayıtoplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\bin\Debug\2sayıtoplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\2sayıtoplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\2sayıtoplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\_2sayıtoplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\_2sayıtoplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\2sayıtoplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\2sayıtoplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\2sayıtoplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\2sayıtoplama\2sayıtoplama\obj\Debug\2sayıtoplama.pdb
